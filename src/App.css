@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
-}
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  font-family: "Open Sans", sans-serif;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#container {
+  height: 999px;
+  max-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  gap: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+/* Header */
+#header {
+  text-align: center;
+  background-color: darkcyan;
+  padding: 10px 0px 15px 0px;
+  color: whitesmoke;
+}
+#header > h1 {
+  letter-spacing: 3px;
+  margin-bottom: 10px;
+  font-size: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Game */
+img {
+  height: 300px;
+  width: 250px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: all 100ms;
+}
+img:hover {
+  transform: scale(1.01);
+}
+
+#game {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+/* Footer */
+#footer {
+  padding: 10px 10px;
+  background-color: royalblue;
+  color: whitesmoke;
+  font-weight: bold;
 }
