@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "clicked": false,
       "name": "Luke Skywalker",
       "height": 1.72,
       "mass": 73,
@@ -42,6 +43,7 @@
     },
     {
       "id": 2,
+      "clicked": false,
       "name": "C-3PO",
       "height": 1.71,
       "mass": 75,
@@ -84,6 +86,7 @@
     },
     {
       "id": 3,
+      "clicked": false,
       "name": "R2-D2",
       "height": 1.09,
       "mass": 32,
@@ -133,6 +136,7 @@
     },
     {
       "id": 4,
+      "clicked": false,
       "name": "Darth Vader",
       "height": 2.03,
       "mass": 120,
@@ -172,6 +176,7 @@
     },
     {
       "id": 5,
+      "clicked": false,
       "name": "Leia Organa",
       "height": 1.5,
       "mass": 51,
@@ -205,6 +210,7 @@
     },
     {
       "id": 6,
+      "clicked": false,
       "name": "Owen Lars",
       "height": 1.7,
       "mass": 120,
@@ -226,6 +232,7 @@
     },
     {
       "id": 7,
+      "clicked": false,
       "name": "Beru Whitesun lars",
       "height": 1.65,
       "mass": 75,
@@ -245,6 +252,7 @@
     },
     {
       "id": 8,
+      "clicked": false,
       "name": "R5-D4",
       "height": 0.97,
       "mass": 32,
@@ -267,6 +275,7 @@
     },
     {
       "id": 9,
+      "clicked": false,
       "name": "Biggs Darklighter",
       "height": 1.83,
       "mass": 84,
@@ -292,6 +301,7 @@
     },
     {
       "id": 10,
+      "clicked": false,
       "name": "Obi-Wan Kenobi",
       "height": 1.82,
       "mass": 81,
@@ -325,6 +335,7 @@
     },
     {
       "id": 11,
+      "clicked": false,
       "name": "Anakin Skywalker",
       "height": 2.03,
       "mass": 120,
@@ -364,6 +375,7 @@
     },
     {
       "id": 12,
+      "clicked": false,
       "name": "Wilhuff Tarkin",
       "height": 1.82,
       "gender": "male",
@@ -395,6 +407,7 @@
     },
     {
       "id": 13,
+      "clicked": false,
       "name": "Chewbacca",
       "height": 2.28,
       "mass": 112,
@@ -421,6 +434,7 @@
     },
     {
       "id": 14,
+      "clicked": false,
       "name": "Han Solo",
       "height": 1.8,
       "mass": 80,

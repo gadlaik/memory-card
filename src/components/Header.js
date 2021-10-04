@@ -5,8 +5,7 @@ export default function Header(props) {
     <div id="header">
       <h1>Memory Game</h1>
       <h3>
-        Score: {props.score === undefined ? "0 - 0" : props.score} High Score:{" "}
-        {props.highscore === undefined ? "0" : props.highscore}
+        Score: {props.score} High Score: {props.highScore}
       </h3>
     </div>
   );
