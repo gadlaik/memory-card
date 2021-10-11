@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gadlaik/memory-card/static/css/main.61c9c96f.chunk.css",
+    "main.js": "/gadlaik/memory-card/static/js/main.adfa1659.chunk.js",
+    "main.js.map": "/gadlaik/memory-card/static/js/main.adfa1659.chunk.js.map",
+    "runtime-main.js": "/gadlaik/memory-card/static/js/runtime-main.a08c461a.js",
+    "runtime-main.js.map": "/gadlaik/memory-card/static/js/runtime-main.a08c461a.js.map",
+    "static/js/2.e61ee06f.chunk.js": "/gadlaik/memory-card/static/js/2.e61ee06f.chunk.js",
+    "static/js/2.e61ee06f.chunk.js.map": "/gadlaik/memory-card/static/js/2.e61ee06f.chunk.js.map",
+    "index.html": "/gadlaik/memory-card/index.html",
+    "static/css/main.61c9c96f.chunk.css.map": "/gadlaik/memory-card/static/css/main.61c9c96f.chunk.css.map",
+    "static/js/2.e61ee06f.chunk.js.LICENSE.txt": "/gadlaik/memory-card/static/js/2.e61ee06f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08c461a.js",
+    "static/js/2.e61ee06f.chunk.js",
+    "static/css/main.61c9c96f.chunk.css",
+    "static/js/main.adfa1659.chunk.js"
+  ]
+}
